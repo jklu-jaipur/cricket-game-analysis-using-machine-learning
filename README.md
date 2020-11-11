@@ -1,4 +1,4 @@
-# cricket-game-prediction-and-analysis
+# cricket-game-prediction-and-analysis-using-machine-learning
 
 The main aims or objectives of this project are:-
 1.  Our First aim is to predict the winner of the match using previous match results
