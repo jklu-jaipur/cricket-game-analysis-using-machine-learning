@@ -9,4 +9,4 @@ The main aims or objectives of this project are:-
 Our Team:- Aishwaryaditya Jha (https://www.linkedin.com/in/aishwaryaditya-jha-b6227b1a1/),
            Saksham Bairathi (https://www.linkedin.com/in/saksham-bairathi-b35171140),
            Harsh Gauttam ,
-           Shreya Singh
+           Shreya Singh (https://www.linkedin.com/in/shreya-singh-564510194/)
